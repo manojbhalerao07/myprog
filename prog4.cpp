@@ -2,8 +2,12 @@
 using namespace std;
 
 int main() {
-int input_1= 50, input_2= 60;
-cout <<value of input_1 is= "\n";
-cout << value of input_2 is=;
+int input_1  ;
+int input_2 ;
+cout <<"enter value of input_1 is = ";
+cin >> input_1;
+cout << "enter value of input_2 is = ";
+cin >> input_2 ;
+
 return 0;
 }
